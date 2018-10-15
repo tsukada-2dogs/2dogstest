@@ -14,3 +14,5 @@ cd $(dirname $0)/..
 # Extra spaces following a bullet replaced by tab per mkdownfmt convention.
 # Leave other stuff alone.
 repren --from '^(\s*)([-*])(\s*  +\s*)' --to '\1\2\t' README.md CONTRIBUTING.md
+
+echo "test1 done."
