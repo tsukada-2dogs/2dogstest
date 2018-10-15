@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# add comment working1.
+
 # Gently fix common Markdown formatting errors. Should be minimally invasive.
 
 set -e -u -o pipefail
